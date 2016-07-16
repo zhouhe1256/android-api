@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">android-api</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_get">GetActivity</string>
+    <string name="title_activity_post">postActivity</string>
+    <!--开发-->
+    <string name="host">http://192.168.1.22:8085</string>
+    <string name="img_host">http://192.168.1.22:8085</string>
+    <string name="pay_notify_url">http://192.168.1.22:8085/api/alipay_notify_url</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_recycler_view">RecyclerViewActivity</string>
+    <string name="title_activity_media">MediaActivity</string>
+    <string name="title_activity_matrix_l">MatrixLActivity</string>
+    <string name="str_context1">宽度</string>
+    <string name="str_context2">高度</string>
+    <string name="str_context3">宽和高</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_animation">AnimationActivity</string>
+    <string name="title_activity_edit_text">EditTextActivity</string>
+    <string name="image_view_tag">ImageViewAdapter</string>
+</resources>
